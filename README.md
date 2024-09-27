@@ -111,10 +111,10 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-|Dhruv Bhatnagar|Use Case Lead|Student|
-|Crystal|Subject Matter Expert||
+|Crystal Hargrove|Use Case Lead|Student|
+|Crystal Hargrove|Subject Matter Expert||
 |Mike Richter|Tech Lead|Microsoft|
-||Tech Lead|Accenture|
+|Dhruv Bhatnagar|Tech Lead|Student|
 #### Time to Market: 12-18 months
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
