@@ -83,7 +83,7 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-| Rishi Bhatnagar |Use Case Lead|EY|
+| Rishi Bhatnagar |Use Case Lead|Morgan Stanley|
 |Leo Junquera|Subject Matter Expert|Parent|
 | Alexis Joseph |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
