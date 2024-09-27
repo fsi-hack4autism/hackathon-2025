@@ -35,7 +35,7 @@ https://github.com/fsi-hack4autism/therapy-session-copilot
 | Name | Role | Company |
 |------|------|---------|
 |Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
-||Subject Matter Expert|RBT/BCBA|
+|Amy Backes|Subject Matter Expert|RBT/BCBA|
 |Rob Reese|Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
 ##### Ideas
@@ -153,7 +153,7 @@ https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 | Name | Role | Company |
 |------|------|---------|
 |Stephen Goldbaum|Use Case Lead|Morgan Stanley|
-||Subject Matter Expert|BCBA|
+|Allison Junquera|Subject Matter Expert|BCBA|
 | Caroline Matthews |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
 
