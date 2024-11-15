@@ -57,7 +57,7 @@ https://github.com/fsi-hack4autism/program-development-copilot
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-|Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
+|Rishi Bhatnagar*|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
 | Devanshi Thacker |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
@@ -83,7 +83,7 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-| Rishi Bhatnagar |Use Case Lead|Morgan Stanley|
+| Rishi Bhatnagar* |Use Case Lead|Morgan Stanley|
 |Leo Junquera|Subject Matter Expert|Parent|
 | Alexis Joseph |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
