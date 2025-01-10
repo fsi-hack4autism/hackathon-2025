@@ -85,7 +85,7 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 |------|------|---------|
 | Rishi Bhatnagar* |Use Case Lead|Morgan Stanley|
 |Leo Junquera|Subject Matter Expert|Parent|
-| ???? |Tech Lead|Microsoft|
+|Melody Yin | Cloud Solution Architect Lead|Microsoft|
 ||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
@@ -111,7 +111,7 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-|Crystal Hargrove|Use Case Lead|Student|
+|Crystal Hargrove|Use Case Lead|WTW|
 |Melody Yin | Cloud Solution Architect Lead|Microsoft|
 |Mike Richter|Tech Lead|Microsoft|
 |Dhruv Bhatnagar|Tech Lead|Student|
@@ -135,7 +135,7 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 | Name | Role | Company |
 |------|------|---------|
 |Barry Cordie |Use Case Lead||
-| Melody Yin | Cloud Solution Architect Lead|Microsoft|
+| ????? | Cloud Solution Architect Lead|Microsoft|
 ||Subject Matter Expert|BCBA|
 | |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
