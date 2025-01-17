@@ -59,7 +59,8 @@ https://github.com/fsi-hack4autism/program-development-copilot
 |------|------|---------|
 |Rishi Bhatnagar*|Use Case Lead|Morgan Stanley|
 ||Subject Matter Expert|BCBA|
-| Devanshi Thacker |Tech Lead|Microsoft|
+| Devanshi Thakar |Tech Lead|Microsoft|
+| Guilherme Nogueira |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
 #### Time to Market: 12-18 months
 
@@ -113,7 +114,6 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 |------|------|---------|
 |Crystal Hargrove|Use Case Lead|WTW|
 |Melody Yin | Cloud Solution Architect Lead|Microsoft|
-|Mike Richter|Tech Lead|Microsoft|
 |Dhruv Bhatnagar|Tech Lead|Student|
 #### Time to Market: 12-18 months
 
