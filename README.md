@@ -153,6 +153,7 @@ https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 |------|------|---------|
 |Stephen Goldbaum|Use Case Lead|Morgan Stanley|
 |Caroline Matthews| Cloud Solution Architect Lead|Microsoft|
+|Cynthia Sabbagh| Customer Success Account Manager| Microsoft|
 |Allison Junquera|Subject Matter Expert|BCBA|
 ||Tech Lead|Accenture|
 
