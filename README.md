@@ -12,9 +12,15 @@ The date of the event is April 2nd and 3rd. The event will be hybrid. The in-per
 
 ## Use cases
 
-### Use case 1: Therapy session co-pilot
+### Use case 1: Therapy Delivery CoPilot Reinvention
 #### Objective: Assist the RBT and BCBA during a session with the child
-An RBT (Registered Behavioral Technician) implements a session designed by the BCBA and looks to acomplish the goals and targets set by the BCBA. Usually, they carry an IPAD or an IoT device to capture their observations. But this has two challenges - it splits the focus of the RBT between focusing on the child and capturing the observations; and it is a very one-dimnesional approach to capture the observations. This use case attempts to solve these challenges by providing  multi-sensory approach to data capture.
+
+The biggest impact in helping those with profound autism comes from direct intervention therapy, which can be up to 30 hours a week. However, persistent issues of quality, transparency, consistency, and access remain unsolved.  
+
+This is a reinvention of the therapeutic environment, harnessing the latest AI and cognitive technology to empower teams to perform their core tasks with unprecedented support. This approach addresses all aspects of direct intervention through the creation of a Digital Command Center. This center captures data in a multi-sensory manner, allowing teams to understand session dynamics, providing therapists with real-time support, and freeing them from distractions to focus on the child or young adult.
+
+This will incrase the quality of service and allow better support, particularly in those areas starved of services.
+
 #### Scenario
 The session will comprise of:
 * Multi-modal data capture
@@ -44,7 +50,10 @@ https://github.com/fsi-hack4autism/therapy-session-copilot
 
 ### Use case 2: Program development design co-pilot
 #### Objective: Assist the BCBA design a program specifically tailored for each child
-A BCBA (Board Certified Behavior Analyst) designs a program specifically for each child based on individualized treatment plan. It will center around the activitie the child enjoys and responds to. The objective is to have specific tasks for the child to complete with a certain level of fluency. This needs to take into account previous assessments, observations, and progress markers. 
+There is significant variation in the quality of program designs, as overworked and underpaid analysts try to support a backlog of clients. This can negatively impact the quality of the programs being designed, which, in turn, affects the child or young adult and can ultimately hinder their future independence.  
+
+Copilot assists the Board Certified Behavior Analyst (BCBA) in designing customized programs specifically tailored for each child. By integrating advanced AI and cognitive technology, Copilot helps create individualized treatment plans centered around activities that the child enjoys and responds to positively. Over the course of a lifetime, utilizing Copilot should change the trajectory of an individual's outcomes, providing a higher quality of care and support.
+
 #### Scenario
 * The co-pilot will be able to ingest past program summaries in multi-modal form - videos, notes (digitized and undigitized), voide recordings, etc
 * Based on these, the co-pilot will place the child in a cohort of other children with similar assessments and markers
@@ -65,13 +74,20 @@ https://github.com/fsi-hack4autism/program-development-copilot
 
 ### Use case 3: Patient on-boarding co-pilot
 #### Objective: Help BCBA onboard a new patient quickly
+
+Service providers and clinics face significant challenges when onboarding new clients. They must process a tremendous amount of information to gain a clear understanding before developing a plan. This process is not covered by insurance, leading to increased costs and creating barriers for new entrants in the marketplace, ultimately impacting service availability and quality.
+
+This copilot will assist service providers and clinics by streamlining the onboarding process for new clients. By leveraging advanced AI and cognitive technology, Copilot can quickly summarize the repository of information about a client, allowing providers to understand the case in minutes. This enables them to develop a plan and approach more efficiently. The low barrier to entry for this solution ensures it has a broad impact across the entire ecosystem, particularly benefiting underserved areas. This transformative initiative lowers the barrier to entry, enhancing service availability and quality across the board.
+
+#### Scenario
+
 Typically, a BCBA gets limited amount of time to onboard a new patient and this can be a very cumbersome task. It includes several types of information to intake:
 * Patient demographics, medical history, past services, etc.
 * Historical evaluations, IEPs, etc.
 * Insurance, funding, billing information, etc.
 * Previous and current treatments and their outcomes, progress reports, etc.
 * Consent forms, contracts, letter of engagement, etc.
-#### Scenario
+
 * The co-pilot will be able to ingest historical documents
 * It will allow parents, BCBAs, and RBTs to actively collaborate across sessions - such as allowing parents to provide inputs of progress outside of sessions
 * It will allow tracking documents and provide a platform for storing consents, authorizations, etc.
@@ -91,7 +107,11 @@ https://github.com/fsi-hack4autism/patient-onboarding-copilot
 
 ### Use case 4: Friendly neighborhood Mobile Networking App
 #### Objective: Connect parents of children with ASD with helpful resources in the community - other parents, BCBAs, organizations, etc.
-When parents move into a new neighborhood, they are not sure what local resources are available to help them or their child. They don't know which RBT, BCBA, or ABA therapist will be best suited for their child. Often times, parents don't even know what questions to ask or what benefits are available to them. This app attempts to start solving the problem.
+
+Stephen Shore said, "If you've met one person with autism, you've met one person with autism," to articulate the diversity of needs and capabilities. This diversity makes identifying appropriate services a very difficult task for parents and guardians, particularly when moving to new areas or during life changes and transitions. Searching for services tailored to a specific set of needs is challenging, and a simple list of services, though helpful, is not enough. It's not like looking for a good restaurant; it can be critical services, like ABA (Applied Behavior Analysis) providers, that are essential.
+
+This app connects the unique needs of each individual case with the available services using AI to help make the right match. By leveraging advanced AI and cognitive technology, the app enables caregivers to find the critical services they desperately need, ensuring that each child or young adult receives the tailored support they require. This transformative solution lowers the barrier to entry, enhances service availability, and improves overall service quality, particularly benefiting underserved areas.
+
 #### Scenario
 This mobile app will help connect parents and patients with other helpful members of the community - other parents, BCBAs, organizations, etc. It will work in three main phases
 * Intake
