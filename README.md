@@ -19,7 +19,7 @@ The biggest impact in helping those with profound autism comes from direct inter
 
 This is a reinvention of the therapeutic environment, harnessing the latest AI and cognitive technology to empower teams to perform their core tasks with unprecedented support. This approach addresses all aspects of direct intervention through the creation of a Digital Command Center. This center captures data in a multi-sensory manner, allowing teams to understand session dynamics, providing therapists with real-time support, and freeing them from distractions to focus on the child or young adult.
 
-This will incrase the quality of service and allow better support, particularly in those areas starved of services.
+This will increase the quality of service and allow better support, particularly in those areas starved of services.
 
 #### Scenario
 The session will comprise of:
@@ -55,7 +55,7 @@ There is significant variation in the quality of program designs, as overworked 
 Copilot assists the Board Certified Behavior Analyst (BCBA) in designing customized programs specifically tailored for each child. By integrating advanced AI and cognitive technology, Copilot helps create individualized treatment plans centered around activities that the child enjoys and responds to positively. Over the course of a lifetime, utilizing Copilot should change the trajectory of an individual's outcomes, providing a higher quality of care and support.
 
 #### Scenario
-* The co-pilot will be able to ingest past program summaries in multi-modal form - videos, notes (digitized and undigitized), voide recordings, etc
+* The co-pilot will be able to ingest past program summaries in multi-modal form - videos, notes (digitized and undigitized), voice recordings, etc
 * Based on these, the co-pilot will place the child in a cohort of other children with similar assessments and markers
 * Based on past successes of children in the cohort, the co-pilot will suggest a recalibrated treatment and markers (if needed) to the BCBA
 * It can generate a progress summary at any given point of time
@@ -116,8 +116,8 @@ This app connects the unique needs of each individual case with the available se
 #### Scenario
 This mobile app will help connect parents and patients with other helpful members of the community - other parents, BCBAs, organizations, etc. It will work in three main phases
 * Intake
-  * Allow patients and parents to fill in their and thier child's profile
-  * Offer a helpful "onbording survey" that will gather basic information about their child
+  * Allow patients and parents to fill in their and their child's profile
+  * Offer a helpful "onboarding survey" that will gather basic information about their child
 * Discover
   * Use ChatGPT to allow parents and patients ask open ended questions and have a conversation
   * Prompt the right next actions for the parents 
@@ -142,11 +142,11 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 ### Use case 5: Job skill training using Augmented Reality
 #### Objective: Teach basic job skills to people with autism using Augmented Reality
 
-One of the biggest challenges for parents and caregivers and parents when those they care for transition from school to "the real world". They need to continue to grow and interact with others, like we all do, and the work envrionment is generally the next phase, but the numbers for employment are bleak for those with profound autism. This use case will focus on the use of Augmented Reality for teaching job skills. The use case will use Unity engine to build Augmented Reality solutions that can be used on platforms like HoloLens to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
+One of the biggest challenges for parents and caregivers and parents when those they care for transition from school to "the real world". They need to continue to grow and interact with others, like we all do, and the work environment is generally the next phase, but the numbers for employment are bleak for those with profound autism. This use case will focus on the use of Augmented Reality for teaching job skills. The use case will use Unity engine to build Augmented Reality solutions that can be used on platforms like HoloLens to help with basic job skills by presenting visual cues on how to complete task such as stocking shelves or preparing food. 
 Additonally, the use case will make use of Gen AI, to manage, evaluate, and provide feedback to the student on how well the skill is being performed. It can also be used to generated the slight variants and increasingly complex scenarios to practice and introduce gamification.
-This will also address the issue of scaability - moving away from 1:1 support to a 1:N as an a student becomes an adult.
+This will also address the issue of scalability - moving away from 1:1 support to a 1:N as an a student becomes an adult.
 #### Scenario
-The skills th application will focus on can include one or more of the following:
+The skills the application will focus on can include one or more of the following:
 * **Stacking shelves in a store** – e.g., making sure all the labels are facing outwards, etc.
 * **Setting up a table in a restaurant** – making sure all the cutlery is there an arranged properly
 * **Setting up a catering tray** – e.g., making sure all items are placed properly
@@ -181,7 +181,7 @@ https://github.com/fsi-hack4autism/Metaverse-Social-Practice
 
 
 ## Planning Team Roles
-We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
+We often get asked "how can I participate" and have therefore outlined a list of roles and their responsibilities.
 
 ### Training Lead:
 Curate resources and organize sessions in order to equip participants with the knowledge needed to prepare for the hackathon.
