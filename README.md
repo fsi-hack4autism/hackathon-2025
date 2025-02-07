@@ -94,6 +94,7 @@ Typically, a BCBA gets limited amount of time to onboard a new patient and this 
 * It can generate a summarization of the new patient for the BCBA to review
 #### Code Repository
 https://github.com/fsi-hack4autism/patient-onboarding-copilot
+https://github.com/fsi-hack4autism/patient-onboarding-copilot/tree/chat_with_documents
 #### Stakeholders
 * BCBA, parent, child
 #### Leadership team
