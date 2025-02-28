@@ -133,7 +133,7 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 | Name | Role | Company |
 |------|------|---------|
 |Crystal Hargrove|Use Case Lead|WTW|
-|TBD | Cloud Solution Architect Lead|Microsoft|
+|Aayushi Mehta | Cloud Solution Architect Lead|Microsoft|
 |Dhruv Bhatnagar|Tech Lead|Student|
 #### Time to Market: 12-18 months
 
