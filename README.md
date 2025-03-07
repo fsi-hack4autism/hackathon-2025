@@ -159,6 +159,7 @@ https://github.com/fsi-hack4autism/augmented-reality-skills-training
 ||Subject Matter Expert|BCBA|
 | |Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
+| Peter Smulovics | Tech Lead | Morgan Stanley |
 
 ### Use Case 6: Empowering Social Connections Using Metaverse
 #### Objective: Practice handling a variety of social situations through gamification
