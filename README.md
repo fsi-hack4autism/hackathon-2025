@@ -134,7 +134,7 @@ https://github.com/fsi-hack4autism/friendly-neighborhood
 |------|------|---------|
 |Crystal Hargrove|Use Case Lead|WTW|
 |Aayushi Mehta | Cloud Solution Architect Lead|Microsoft|
-|Dhruv Bhatnagar|Tech Lead|Student|
+|Dhruv Bhatnagar|Subject Matter Expert|Student|
 #### Time to Market: 12-18 months
 
 ### Theme 2: Ideas that are leverage innovative and exploratory technology and have a longer time to market
