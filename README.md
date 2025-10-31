@@ -40,7 +40,7 @@ https://github.com/fsi-hack4autism/therapy-session-copilot
 #### Leadership team
 | Name | Role | Company |
 |------|------|---------|
-|Rishi Bhatnagar|Use Case Lead|Morgan Stanley|
+|Rishi Bhatnagar|Use Case Lead|LPL Financial|
 |Amy Backes|Subject Matter Expert|RBT/BCBA|
 |Rob Reese|Tech Lead|Microsoft|
 ||Tech Lead|Accenture|
